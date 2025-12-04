@@ -7,7 +7,7 @@ function About() {
     <>
       <section id="about" className="grid md:grid-cols-2 gap-1 min-h-screen py-8 md:mt-15">
           <div className="flex items-center">
-          <img src="/picture.jpg" alt="front page image" className='w-md h-auto mx-auto object-contain' />
+          <img src="./picture.jpg" alt="front page image" className='w-md h-auto mx-auto object-contain' />
         </div>
 
         <div className="flex flex-col justify-center items-center gap-7 px-4 md:px-8 lg:px-12">

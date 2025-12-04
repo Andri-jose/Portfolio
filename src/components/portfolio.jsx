@@ -8,7 +8,7 @@ function Portfolio() {
         <h1 className="text-[#4FA1C6]">These are some of my projects</h1>
 
         <div className="md:grid md:grid-cols-3 mt-15 flex flex-col">
-          <img src="/IMG/Worldwide.avif" className="col-span-2 w-full h-full" alt="Description" />
+          <img src="./IMG/Worldwide.avif" className="col-span-2 w-full h-full" alt="Description" />
           <div className="bg-black flex-col flex justify-evenly items-center px-5 py-18  font-medium leading-6">
             <h2 className="text-lg font-semibold pb-5 md:pb-0">WorldWise App</h2>
             <p className="pb-5 md:pb-0">
@@ -31,11 +31,11 @@ function Portfolio() {
               View more
             </button>
           </div>
-          <img src="/IMG/usePopcorn.avif" className="col-span-2 w-full h-full " alt="Description" />
+          <img src="./IMG/usePopcorn.avif" className="col-span-2 w-full h-full " alt="Description" />
         </div>
 
         <div className="md:grid md:grid-cols-3 mt-15 flex flex-col">
-          <img src="/IMG/graphics.avif" className="col-span-2 w-full h-full" alt="Description" />
+          <img src="./IMG/graphics.avif" className="col-span-2 w-full h-full" alt="Description" />
           <div className="bg-black flex-col flex justify-evenly items-center px-5 py-18  font-medium leading-6">
             <h2 className="text-lg font-semibold pb-5 md:pb-0">Graphics app</h2>
             <p className="pb-5 md:pb-0">
@@ -57,7 +57,7 @@ function Portfolio() {
               View more
             </button>
           </div>
-          <img src="/IMG/ecommerce.avif" className="col-span-2 w-full h-full " alt="Description" />
+          <img src="./IMG/ecommerce.avif" className="col-span-2 w-full h-full " alt="Description" />
         </div>
       </section>
 
