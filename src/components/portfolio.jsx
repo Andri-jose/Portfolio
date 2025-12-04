@@ -39,7 +39,7 @@ function Portfolio() {
           <div className="bg-black flex-col flex justify-evenly items-center px-5 py-18  font-medium leading-6">
             <h2 className="text-lg font-semibold pb-5 md:pb-0">Graphics app</h2>
             <p className="pb-5 md:pb-0">
-              App created to rate movies and to keep a record of them, created with React, css, Rest API, useEffect.
+              Contribution to an open source code base. Landing page created using TypeScript and Jest for testing.
             </p>
             <button onClick={() => window.open('https://andri-jose.github.io/Graphics-App/', '_blank')}>
               View more
