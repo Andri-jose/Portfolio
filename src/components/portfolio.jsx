@@ -41,7 +41,7 @@ function Portfolio() {
             <p className="pb-5 md:pb-0">
               App created to rate movies and to keep a record of them, created with React, css, Rest API, useEffect.
             </p>
-            <button onClick={() => window.open('https://andri-jose.github.io/ReactAppPortfolio/', '_blank', 'rel=external')}>
+            <button onClick={() => window.open('https://andri-jose.github.io/Graphics-App/', '_blank', 'rel=external')}>
               View more
             </button>
           </div>
