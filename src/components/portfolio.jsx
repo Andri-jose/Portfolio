@@ -15,7 +15,7 @@ function Portfolio() {
               App created for travelers to keep a record of cities and countries visited, created with React, css,
               Rest API, useContext, React Router.
             </p>
-            <button onClick={() => window.open('https://andri-jose.github.io/WorldWise_app/', '_blank', 'rel=external')}>
+            <button onClick={() => window.open('https://andri-jose.github.io/WorldWise_app/', '_blank')}>
               View more
             </button>
           </div>
@@ -27,7 +27,7 @@ function Portfolio() {
             <p className="pb-5 md:pb-0">
               App created to rate movies and to keep a record of them, created with React, css, Rest API, useEffect.
             </p>
-            <button onClick={() => window.open('https://andri-jose.github.io/usePopCorn/', '_blank', 'rel=external')}>
+            <button onClick={() => window.open('https://andri-jose.github.io/usePopCorn/', '_blank')}>
               View more
             </button>
           </div>
@@ -41,7 +41,7 @@ function Portfolio() {
             <p className="pb-5 md:pb-0">
               App created to rate movies and to keep a record of them, created with React, css, Rest API, useEffect.
             </p>
-            <button onClick={() => window.open('https://andri-jose.github.io/Graphics-App/', '_blank', 'rel=external')}>
+            <button onClick={() => window.open('https://andri-jose.github.io/Graphics-App/', '_blank')}>
               View more
             </button>
           </div>
@@ -53,7 +53,7 @@ function Portfolio() {
             <p className="pb-5 md:pb-0">
               E-commerce for purchases of legumes in a diet store created with html5, css3, js, jquery and ajax.
             </p>
-            <button onClick={() => window.open('https://andri-jose.github.io/e-commerce-page-js-jquery/index.html', '_blank', 'rel=external')}>
+            <button onClick={() => window.open('https://andri-jose.github.io/e-commerce-page-js-jquery/index.html', '_blank')}>
               View more
             </button>
           </div>
