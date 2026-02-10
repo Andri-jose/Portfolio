@@ -49,15 +49,15 @@ function Portfolio() {
 
         <div className="md:grid md:grid-cols-3 mt-15 flex flex-col">
           <div className="bg-black flex-col flex justify-evenly items-center px-5 py-18 font-medium leading-6">
-            <h2 className="text-lg font-semibold pb-5 md:pb-0">E-commerce page</h2>
+            <h2 className="text-lg font-semibold pb-5 md:pb-0">Real Estate Landing Page</h2>
             <p className="pb-5 md:pb-0">
-              E-commerce for purchases of legumes in a diet store created with html5, css3, js, jquery and ajax.
+              Landing page created for a real estate company, created with React, TypeScript, Tailwind CSS, useState, Vitest for Testing.
             </p>
-            <button onClick={() => window.open('https://andri-jose.github.io/e-commerce-page-js-jquery/index.html', '_blank')}>
+            <button onClick={() => window.open('https://andri-jose.github.io/Landing-Page-Real-Estate/', '_blank')}>
               View more
             </button>
           </div>
-          <img src="./IMG/ecommerce.avif" className="col-span-2 w-full h-full " alt="Description" />
+          <img src="./IMG/image-realestate.png" className="col-span-2 w-full h-full " alt="Description" />
         </div>
       </section>
 
